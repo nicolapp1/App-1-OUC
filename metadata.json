@@ -1,0 +1,8 @@
+{
+  "name": "Remix Oasis Flota",
+  "description": "Gestión inteligente de transporte, camiones, conductores, viajes, combustible y mantenimiento para Ferretería El Oasis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
